@@ -1,0 +1,212 @@
+,country,year,NY.GDP.PCAP.KD,SP.DYN.TFRT.IN,region,longitude,latitude,income,lending,gdp,fert
+6,Andorra,2010,39639.38602,1.27,Europe & Central Asia (all income levels),1.5218,42.5075,High income: nonOECD,Not classified,39639.38602,1.27
+7,United Arab Emirates,2010,34341.91129,1.868,Middle East & North Africa (all income levels),54.3705,24.4764,High income: nonOECD,Not classified,34341.91129,1.868
+8,Afghanistan,2010,569.9407288,5.746,South Asia,69.1761,34.5228,Low income,IDA,569.9407288,5.746
+9,Antigua and Barbuda,2010,13017.31039,2.13,Latin America & Caribbean (all income levels),-61.8456,17.1175,Upper middle income,IBRD,13017.31039,2.13
+10,Albania,2010,4094.358832,1.663,Europe & Central Asia (all income levels),19.8172,41.3317,Upper middle income,IBRD,4094.358832,1.663
+11,Armenia,2010,3124.784018,1.648,Europe & Central Asia (all income levels),44.509,40.1596,Lower middle income,Blend,3124.784018,1.648
+12,Angola,2010,3886.479354,6.416,Sub-Saharan Africa (all income levels),13.242,-8.81155,Lower middle income,IDA,3886.479354,6.416
+13,Argentina,2010,11198.64257,2.37,Latin America & Caribbean (all income levels),-58.4173,-34.6118,Upper middle income,IBRD,11198.64257,2.37
+14,American Samoa,2010,NA,NA,East Asia & Pacific (all income levels),-170.691,-14.2846,Upper middle income,Not classified,NA,NA
+15,Austria,2010,46659.84082,1.44,Europe & Central Asia (all income levels),16.3798,48.2201,High income: OECD,Not classified,46659.84082,1.44
+16,Australia,2010,51845.65486,1.928,East Asia & Pacific (all income levels),149.129,-35.282,High income: OECD,Not classified,51845.65486,1.928
+17,Aruba,2010,24289.14152,1.704,Latin America & Caribbean (all income levels),-70.0167,12.5167,High income: nonOECD,Not classified,24289.14152,1.704
+18,Azerbaijan,2010,5842.805784,1.92,Europe & Central Asia (all income levels),49.8932,40.3834,Upper middle income,IBRD,5842.805784,1.92
+20,Bosnia and Herzegovina,2010,4475.08813,1.288,Europe & Central Asia (all income levels),18.4214,43.8607,Upper middle income,Blend,4475.08813,1.288
+21,Barbados,2010,15901.43294,1.781,Latin America & Caribbean (all income levels),-59.6105,13.0935,High income: nonOECD,Not classified,15901.43294,1.781
+22,Bangladesh,2010,760.3319352,2.332,South Asia,90.4113,23.7055,Low income,IDA,760.3319352,2.332
+23,Belgium,2010,44382.87977,1.86,Europe & Central Asia (all income levels),4.36761,50.8371,High income: OECD,Not classified,44382.87977,1.86
+24,Burkina Faso,2010,574.4580893,5.867,Sub-Saharan Africa (all income levels),-1.53395,12.3605,Low income,IDA,574.4580893,5.867
+25,Bulgaria,2010,6752.552178,1.57,Europe & Central Asia (all income levels),23.3238,42.7105,Upper middle income,IBRD,6752.552178,1.57
+26,Bahrain,2010,20386.01756,2.142,Middle East & North Africa (all income levels),50.5354,26.1921,High income: nonOECD,Not classified,20386.01756,2.142
+27,Burundi,2010,214.2309908,6.302,Sub-Saharan Africa (all income levels),29.3639,-3.3784,Low income,IDA,214.2309908,6.302
+28,Benin,2010,732.9536227,5.094,Sub-Saharan Africa (all income levels),2.6323,6.4779,Low income,IDA,732.9536227,5.094
+29,Bermuda,2010,88207.32756,1.76,North America,-64.706,32.3293,High income: nonOECD,Not classified,88207.32756,1.76
+30,Brunei Darussalam,2010,31453.2244,1.953,East Asia & Pacific (all income levels),114.946,4.94199,High income: nonOECD,Not classified,31453.2244,1.953
+31,Bolivia,2010,1981.160105,3.2,Latin America & Caribbean (all income levels),-66.1936,-13.9908,Lower middle income,Blend,1981.160105,3.2
+32,Brazil,2010,11121.42095,1.838,Latin America & Caribbean (all income levels),-47.9292,-15.7801,Upper middle income,IBRD,11121.42095,1.838
+33,"Bahamas, The",2010,21920.51659,1.904,Latin America & Caribbean (all income levels),-77.339,25.0661,High income: nonOECD,Not classified,21920.51659,1.904
+34,Bhutan,2010,2201.293078,2.331,South Asia,89.6177,27.5768,Lower middle income,IDA,2201.293078,2.331
+35,Botswana,2010,6244.002574,2.893,Sub-Saharan Africa (all income levels),25.9201,-24.6544,Upper middle income,IBRD,6244.002574,2.893
+36,Belarus,2010,5818.854859,1.44,Europe & Central Asia (all income levels),27.5766,53.9678,Upper middle income,IBRD,5818.854859,1.44
+37,Belize,2010,4344.136669,2.714,Latin America & Caribbean (all income levels),-88.7713,17.2534,Lower middle income,IBRD,4344.136669,2.714
+38,Canada,2010,47445.76193,1.6269,North America,-75.6919,45.4215,High income: OECD,Not classified,47445.76193,1.6269
+39,"Congo, Dem. Rep.",2010,311.247896,6.386,Sub-Saharan Africa (all income levels),15.3222,-4.325,Low income,IDA,311.247896,6.386
+40,Central African Republic,2010,446.8002046,4.624,Sub-Saharan Africa (all income levels),21.6407,5.63056,Low income,IDA,446.8002046,4.624
+41,"Congo, Rep.",2010,2953.185008,5.02,Sub-Saharan Africa (all income levels),15.2662,-4.2767,Lower middle income,IDA,2953.185008,5.02
+42,Switzerland,2010,74277.12051,1.52,Europe & Central Asia (all income levels),7.44821,46.948,High income: OECD,Not classified,74277.12051,1.52
+43,Cote d'Ivoire,2010,1236.085198,5.231,Sub-Saharan Africa (all income levels),-4.0305,5.332,Lower middle income,IDA,1236.085198,5.231
+44,Chile,2010,12785.05187,1.824,Latin America & Caribbean (all income levels),-70.6475,-33.475,Upper middle income,IBRD,12785.05187,1.824
+45,Cameroon,2010,1147.242347,5.017,Sub-Saharan Africa (all income levels),11.5174,3.8721,Lower middle income,IDA,1147.242347,5.017
+46,China,2010,4514.94052,1.539,East Asia & Pacific (all income levels),116.286,40.0495,Upper middle income,IBRD,4514.94052,1.539
+47,Colombia,2010,6250.6545,2.01,Latin America & Caribbean (all income levels),-74.082,4.60987,Upper middle income,IBRD,6250.6545,2.01
+48,Costa Rica,2010,7985.951035,1.922,Latin America & Caribbean (all income levels),-84.0089,9.63701,Upper middle income,IBRD,7985.951035,1.922
+49,Cuba,2010,5688.666732,1.635,Latin America & Caribbean (all income levels),-82.3667,23.1333,Upper middle income,Not classified,5688.666732,1.635
+51,Curacao,2010,NA,2.2,Latin America & Caribbean (all income levels),,,High income: nonOECD,Not classified,NA,2.2
+52,Cyprus,2010,30438.90019,1.481,Europe & Central Asia (all income levels),33.3736,35.1676,High income: nonOECD,Not classified,30438.90019,1.481
+53,Czech Republic,2010,19763.9638,1.51,Europe & Central Asia (all income levels),14.4205,50.0878,High income: OECD,Not classified,19763.9638,1.51
+54,Germany,2010,41788.04479,1.39,Europe & Central Asia (all income levels),13.4115,52.5235,High income: OECD,Not classified,41788.04479,1.39
+55,Djibouti,2010,1358.4605,3.484,Middle East & North Africa (all income levels),43.1425,11.5806,Lower middle income,IDA,1358.4605,3.484
+56,Denmark,2010,57647.66876,1.87,Europe & Central Asia (all income levels),12.5681,55.6763,High income: OECD,Not classified,57647.66876,1.87
+57,Dominica,2010,6937.256084,NA,Latin America & Caribbean (all income levels),-61.39,15.2976,Upper middle income,Blend,6937.256084,NA
+58,Dominican Republic,2010,5441.965749,2.597,Latin America & Caribbean (all income levels),-69.8908,18.479,Upper middle income,IBRD,5441.965749,2.597
+59,Algeria,2010,4473.486446,2.873,Middle East & North Africa (all income levels),3.05097,36.7397,Upper middle income,IBRD,4473.486446,2.873
+60,Ecuador,2010,4657.301737,2.656,Latin America & Caribbean (all income levels),-78.5243,-0.229498,Upper middle income,IBRD,4657.301737,2.656
+61,Estonia,2010,14641.40314,1.72,Europe & Central Asia (all income levels),24.7586,59.4392,High income: OECD,Not classified,14641.40314,1.72
+62,"Egypt, Arab Rep.",2010,2668.035988,3.184,Middle East & North Africa (all income levels),31.2461,30.0982,Lower middle income,IBRD,2668.035988,3.184
+63,Eritrea,2010,451.4266933,4.605,Sub-Saharan Africa (all income levels),38.9183,15.3315,Low income,IDA,451.4266933,4.605
+64,Spain,2010,30737.83227,1.37,Europe & Central Asia (all income levels),-3.70327,40.4167,High income: OECD,Not classified,30737.83227,1.37
+65,Ethiopia,2010,341.8589562,4.903,Sub-Saharan Africa (all income levels),38.7468,9.02274,Low income,IDA,341.8589562,4.903
+68,Finland,2010,46205.16601,1.87,Europe & Central Asia (all income levels),24.9525,60.1608,High income: OECD,Not classified,46205.16601,1.87
+69,Fiji,2010,3651.958291,2.669,East Asia & Pacific (all income levels),178.399,-18.1149,Lower middle income,IBRD,3651.958291,2.669
+70,"Micronesia, Fed. Sts.",2010,2838.448547,3.46,East Asia & Pacific (all income levels),158.185,6.91771,Lower middle income,IDA,2838.448547,3.46
+72,France,2010,40705.76623,2.03,Europe & Central Asia (all income levels),2.35097,48.8566,High income: OECD,Not classified,40705.76623,2.03
+73,Gabon,2010,9312.049463,4.083,Sub-Saharan Africa (all income levels),9.45162,0.38832,Upper middle income,IBRD,9312.049463,4.083
+74,United Kingdom,2010,38292.87113,1.92,Europe & Central Asia (all income levels),-0.126236,51.5002,High income: OECD,Not classified,38292.87113,1.92
+75,Grenada,2010,7365.666659,2.24,Latin America & Caribbean (all income levels),-61.7449,12.0653,Upper middle income,Blend,7365.666659,2.24
+76,Georgia,2010,2964.477048,1.82,Europe & Central Asia (all income levels),44.793,41.71,Lower middle income,Blend,2964.477048,1.82
+77,Ghana,2010,1323.099141,4.272,Sub-Saharan Africa (all income levels),-0.20795,5.57045,Lower middle income,IDA,1323.099141,4.272
+78,Gibraltar,2010,NA,NA,Europe & Central Asia (all income levels),,,High income: nonOECD,Not classified,NA,NA
+79,Greenland,2010,40193.66603,2.195,Europe & Central Asia (all income levels),-51.7214,64.1836,High income: nonOECD,Not classified,40193.66603,2.195
+80,"Gambia, The",2010,562.5681661,5.796,Sub-Saharan Africa (all income levels),-16.5885,13.4495,Low income,IDA,562.5681661,5.796
+81,Guinea,2010,430.0564739,5.337,Sub-Saharan Africa (all income levels),-13.7,9.51667,Low income,IDA,430.0564739,5.337
+82,Equatorial Guinea,2010,17441.09255,5.176,Sub-Saharan Africa (all income levels),8.7741,3.7523,High income: nonOECD,IBRD,17441.09255,5.176
+83,Greece,2010,26919.36164,1.47,Europe & Central Asia (all income levels),23.7166,37.9792,High income: OECD,Not classified,26919.36164,1.47
+84,Guatemala,2010,2805.951416,3.434,Latin America & Caribbean (all income levels),-90.5328,14.6248,Lower middle income,IBRD,2805.951416,3.434
+85,Guam,2010,NA,2.472,East Asia & Pacific (all income levels),144.794,13.4443,High income: nonOECD,Not classified,NA,2.472
+86,Guinea-Bissau,2010,518.5983608,5.091,Sub-Saharan Africa (all income levels),-15.1804,11.8037,Low income,IDA,518.5983608,5.091
+87,Guyana,2010,2998.941274,2.68,Latin America & Caribbean (all income levels),-58.1548,6.80461,Lower middle income,IDA,2998.941274,2.68
+88,"Hong Kong SAR, China",2010,32549.99823,1.127,East Asia & Pacific (all income levels),114.109,22.3964,High income: nonOECD,Not classified,32549.99823,1.127
+89,Honduras,2010,2110.822021,2.695,Latin America & Caribbean (all income levels),-87.4667,15.1333,Lower middle income,IDA,2110.822021,2.695
+90,Croatia,2010,13509.18582,1.55,Europe & Central Asia (all income levels),15.9614,45.8069,High income: nonOECD,IBRD,13509.18582,1.55
+91,Haiti,2010,662.2795182,3.325,Latin America & Caribbean (all income levels),-72.3288,18.5392,Low income,IDA,662.2795182,3.325
+92,Hungary,2010,13009.34538,1.25,Europe & Central Asia (all income levels),19.0408,47.4984,High income: OECD,Not classified,13009.34538,1.25
+93,Indonesia,2010,3125.219934,2.513,East Asia & Pacific (all income levels),106.83,-6.19752,Lower middle income,IBRD,3125.219934,2.513
+94,Ireland,2010,48260.66536,2.05,Europe & Central Asia (all income levels),-6.26749,53.3441,High income: OECD,Not classified,48260.66536,2.05
+95,Israel,2010,30736.36389,3.03,Middle East & North Africa (all income levels),35.2035,31.7717,High income: OECD,Not classified,30736.36389,3.03
+96,Isle of Man,2010,64277.06375,NA,Europe & Central Asia (all income levels),-4.47928,54.1509,High income: nonOECD,Not classified,64277.06375,NA
+97,India,2010,1387.880084,2.622,South Asia,77.225,28.6353,Lower middle income,Blend,1387.880084,2.622
+98,Iraq,2010,4487.366289,4.659,Middle East & North Africa (all income levels),44.394,33.3302,Lower middle income,IBRD,4487.366289,4.659
+99,"Iran, Islamic Rep.",2010,6299.918738,1.765,Middle East & North Africa (all income levels),51.4447,35.6878,Upper middle income,IBRD,6299.918738,1.765
+100,Iceland,2010,41620.06745,2.2,Europe & Central Asia (all income levels),-21.8952,64.1353,High income: OECD,Not classified,41620.06745,2.2
+101,Italy,2010,35851.50807,1.46,Europe & Central Asia (all income levels),12.4823,41.8955,High income: OECD,Not classified,35851.50807,1.46
+102,Channel Islands,2010,NA,1.436,Europe & Central Asia (all income levels),,,High income: nonOECD,Not classified,NA,1.436
+103,Jamaica,2010,4902.034731,2.174,Latin America & Caribbean (all income levels),-76.792,17.9927,Upper middle income,IBRD,4902.034731,2.174
+104,Jordan,2010,4054.270668,3.553,Middle East & North Africa (all income levels),35.9263,31.9497,Upper middle income,IBRD,4054.270668,3.553
+105,Japan,2010,42935.25272,1.39,East Asia & Pacific (all income levels),139.77,35.67,High income: OECD,Not classified,42935.25272,1.39
+106,Kenya,2010,991.8505451,4.629,Sub-Saharan Africa (all income levels),36.8126,-1.27975,Low income,IDA,991.8505451,4.629
+107,Kyrgyz Republic,2010,880.0377751,3.1,Europe & Central Asia (all income levels),74.6057,42.8851,Low income,IDA,880.0377751,3.1
+108,Cambodia,2010,782.6927899,2.875,East Asia & Pacific (all income levels),104.874,11.5556,Low income,IDA,782.6927899,2.875
+109,Kiribati,2010,1465.504574,3.843,East Asia & Pacific (all income levels),172.979,1.32905,Lower middle income,IDA,1465.504574,3.843
+110,Comoros,2010,739.8977906,4.755,Sub-Saharan Africa (all income levels),43.2418,-11.6986,Low income,IDA,739.8977906,4.755
+111,St. Kitts and Nevis,2010,13226.95231,NA,Latin America & Caribbean (all income levels),-62.7309,17.3,Upper middle income,IBRD,13226.95231,NA
+113,"Korea, Rep.",2010,22151.20889,1.226,East Asia & Pacific (all income levels),126.957,37.5323,High income: OECD,IBRD,22151.20889,1.226
+114,Kuwait,2010,37725.14121,2.353,Middle East & North Africa (all income levels),47.9824,29.3721,High income: nonOECD,Not classified,37725.14121,2.353
+115,Cayman Islands,2010,NA,NA,Latin America & Caribbean (all income levels),-81.3857,19.3022,High income: nonOECD,Not classified,NA,NA
+116,Kazakhstan,2010,9070.649972,2.6,Europe & Central Asia (all income levels),71.4382,51.1879,Upper middle income,IBRD,9070.649972,2.6
+117,Lao PDR,2010,1147.095387,3.293,East Asia & Pacific (all income levels),102.177,18.5826,Lower middle income,IDA,1147.095387,3.293
+118,Lebanon,2010,8763.795964,1.613,Middle East & North Africa (all income levels),35.5134,33.8872,Upper middle income,IBRD,8763.795964,1.613
+119,St. Lucia,2010,7043.506936,1.982,Latin America & Caribbean (all income levels),-60.9832,14,Upper middle income,Blend,7043.506936,1.982
+120,Liechtenstein,2010,140101.9673,1.4,Europe & Central Asia (all income levels),9.52148,47.1411,High income: nonOECD,Not classified,140101.9673,1.4
+121,Sri Lanka,2010,2819.651309,2.203,South Asia,79.8528,6.92148,Lower middle income,Blend,2819.651309,2.203
+122,Liberia,2010,326.6044381,5.024,Sub-Saharan Africa (all income levels),-10.7957,6.30039,Low income,IDA,326.6044381,5.024
+123,Lesotho,2010,1087.98277,3.303,Sub-Saharan Africa (all income levels),27.7167,-29.5208,Lower middle income,IDA,1087.98277,3.303
+124,Lithuania,2010,11988.75797,1.5,Europe & Central Asia (all income levels),25.2799,54.6896,Upper middle income,Not classified,11988.75797,1.5
+125,Luxembourg,2010,103267.2765,1.63,Europe & Central Asia (all income levels),6.1296,49.61,High income: OECD,Not classified,103267.2765,1.63
+126,Latvia,2010,11319.517,1.36,Europe & Central Asia (all income levels),24.1048,56.9465,Upper middle income,Not classified,11319.517,1.36
+127,Libya,2010,11933.77926,2.603,Middle East & North Africa (all income levels),13.1072,32.8578,Upper middle income,IBRD,11933.77926,2.603
+128,Morocco,2010,2857.673414,2.535,Middle East & North Africa (all income levels),-6.8704,33.9905,Lower middle income,IBRD,2857.673414,2.535
+129,Monaco,2010,145221.1916,NA,Europe & Central Asia (all income levels),7.41891,43.7325,High income: nonOECD,Not classified,145221.1916,NA
+130,Moldova,2010,1631.535832,1.274,Europe & Central Asia (all income levels),28.8497,47.0167,Lower middle income,IDA,1631.535832,1.274
+131,Montenegro,2010,6682.281158,1.767,Europe & Central Asia (all income levels),19.2595,42.4602,Upper middle income,IBRD,6682.281158,1.767
+132,St. Martin (French part),2010,NA,1.82,Latin America & Caribbean (all income levels),,,High income: nonOECD,Not classified,NA,1.82
+133,Madagascar,2010,414.1427872,4.654,Sub-Saharan Africa (all income levels),45.7167,-20.4667,Low income,IDA,414.1427872,4.654
+134,Marshall Islands,2010,3124.343448,NA,East Asia & Pacific (all income levels),171.135,7.11046,Lower middle income,IDA,3124.343448,NA
+135,"Macedonia, FYR",2010,4561.177546,1.471,Europe & Central Asia (all income levels),21.4361,42.0024,Upper middle income,IBRD,4561.177546,1.471
+136,Mali,2010,704.0646209,6.547,Sub-Saharan Africa (all income levels),-7.50034,13.5667,Low income,IDA,704.0646209,6.547
+137,Myanmar,2010,NA,2.386,East Asia & Pacific (all income levels),95.9562,21.914,Low income,IDA,NA,2.386
+138,Mongolia,2010,2650.346885,2.555,East Asia & Pacific (all income levels),106.937,47.9129,Lower middle income,IDA,2650.346885,2.555
+139,"Macao SAR, China",2010,52604.32713,1.061,East Asia & Pacific (all income levels),113.55,22.1667,High income: nonOECD,Not classified,52604.32713,1.061
+140,Northern Mariana Islands,2010,NA,NA,East Asia & Pacific (all income levels),145.765,15.1935,High income: nonOECD,Not classified,NA,NA
+141,Mauritania,2010,1207.827458,4.835,Sub-Saharan Africa (all income levels),-15.9824,18.2367,Lower middle income,IDA,1207.827458,4.835
+142,Malta,2010,19694.08316,1.36,Middle East & North Africa (all income levels),14.5189,35.9042,High income: nonOECD,Not classified,19694.08316,1.36
+143,Mauritius,2010,7772.100057,1.57,Sub-Saharan Africa (all income levels),57.4977,-20.1605,Upper middle income,IBRD,7772.100057,1.57
+144,Maldives,2010,6330.79498,2.209,South Asia,73.5109,4.1742,Upper middle income,IDA,6330.79498,2.209
+145,Malawi,2010,471.2077524,5.531,Sub-Saharan Africa (all income levels),33.7703,-13.9899,Low income,IDA,471.2077524,5.531
+146,Mexico,2010,8861.49372,2.356,Latin America & Caribbean (all income levels),-99.1276,19.427,Upper middle income,IBRD,8861.49372,2.356
+147,Malaysia,2010,9069.041757,1.998,East Asia & Pacific (all income levels),101.684,3.12433,Upper middle income,IBRD,9069.041757,1.998
+148,Mozambique,2010,417.5012315,5.564,Sub-Saharan Africa (all income levels),32.5713,-25.9664,Low income,IDA,417.5012315,5.564
+149,Namibia,2010,5143.130676,3.605,Sub-Saharan Africa (all income levels),17.0931,-22.5648,Upper middle income,IBRD,5143.130676,3.605
+150,New Caledonia,2010,NA,2.17,East Asia & Pacific (all income levels),166.464,-22.2677,High income: nonOECD,Not classified,NA,2.17
+151,Niger,2010,351.0062183,7.667,Sub-Saharan Africa (all income levels),2.1073,13.514,Low income,IDA,351.0062183,7.667
+152,Nigeria,2010,2314.963537,5.84,Sub-Saharan Africa (all income levels),7.48906,9.05804,Lower middle income,IDA,2314.963537,5.84
+153,Nicaragua,2010,1523.481469,2.428,Latin America & Caribbean (all income levels),-86.2734,12.1475,Lower middle income,IDA,1523.481469,2.428
+154,Netherlands,2010,50341.25192,1.79,Europe & Central Asia (all income levels),4.89095,52.3738,High income: OECD,Not classified,50341.25192,1.79
+155,Norway,2010,87646.2701,1.95,Europe & Central Asia (all income levels),10.7387,59.9138,High income: OECD,Not classified,87646.2701,1.95
+156,Nepal,2010,595.4275198,2.606,South Asia,85.3157,27.6939,Low income,IDA,595.4275198,2.606
+158,New Zealand,2010,33692.1696,2.17,East Asia & Pacific (all income levels),174.776,-41.2865,High income: OECD,Not classified,33692.1696,2.17
+160,Oman,2010,19920.64957,2.888,Middle East & North Africa (all income levels),58.5874,23.6105,High income: nonOECD,Not classified,19920.64957,2.888
+161,Panama,2010,7987.060372,2.513,Latin America & Caribbean (all income levels),-79.5188,8.99427,Upper middle income,IBRD,7987.060372,2.513
+162,Peru,2010,5056.295313,2.545,Latin America & Caribbean (all income levels),-77.0465,-12.0931,Upper middle income,IBRD,5056.295313,2.545
+163,French Polynesia,2010,NA,2.11,East Asia & Pacific (all income levels),-149.57,-17.535,High income: nonOECD,Not classified,NA,2.11
+164,Papua New Guinea,2010,1418.923591,3.985,East Asia & Pacific (all income levels),147.194,-9.47357,Lower middle income,Blend,1418.923591,3.985
+165,Philippines,2010,2145.240007,3.133,East Asia & Pacific (all income levels),121.035,14.5515,Lower middle income,IBRD,2145.240007,3.133
+166,Pakistan,2010,1043.300205,3.855,South Asia,72.8,30.5167,Lower middle income,Blend,1043.300205,3.855
+167,Poland,2010,12597.45879,1.41,Europe & Central Asia (all income levels),21.02,52.26,High income: OECD,IBRD,12597.45879,1.41
+168,Puerto Rico,2010,26435.73308,1.6235,Latin America & Caribbean (all income levels),-66,18.23,High income: nonOECD,Not classified,26435.73308,1.6235
+169,West Bank and Gaza,2010,2338.719877,4.433,Middle East & North Africa (all income levels),,,Lower middle income,Not classified,2338.719877,4.433
+170,Portugal,2010,22539.99601,1.39,Europe & Central Asia (all income levels),-9.13552,38.7072,High income: OECD,Not classified,22539.99601,1.39
+171,Palau,2010,8978.993649,NA,East Asia & Pacific (all income levels),134.479,7.34194,Upper middle income,IBRD,8978.993649,NA
+172,Paraguay,2010,3225.591754,2.73,Latin America & Caribbean (all income levels),-57.6362,-25.3005,Lower middle income,IBRD,3225.591754,2.73
+173,Qatar,2010,70870.22658,2.104,Middle East & North Africa (all income levels),51.5082,25.2948,High income: nonOECD,Not classified,70870.22658,2.104
+174,Romania,2010,8297.483621,1.59,Europe & Central Asia (all income levels),26.0979,44.4479,Upper middle income,IBRD,8297.483621,1.59
+175,Serbia,2010,5411.877404,1.4,Europe & Central Asia (all income levels),20.4656,44.8024,Upper middle income,IBRD,5411.877404,1.4
+176,Russian Federation,2010,10674.9972,1.57,Europe & Central Asia (all income levels),37.6176,55.7558,Upper middle income,IBRD,10674.9972,1.57
+177,Rwanda,2010,553.5974576,4.441,Sub-Saharan Africa (all income levels),30.0587,-1.95325,Low income,IDA,553.5974576,4.441
+182,Saudi Arabia,2010,18753.98123,2.987,Middle East & North Africa (all income levels),46.6977,24.6748,High income: nonOECD,Not classified,18753.98123,2.987
+183,Solomon Islands,2010,1276.348513,4.236,East Asia & Pacific (all income levels),159.949,-9.42676,Lower middle income,IDA,1276.348513,4.236
+184,Seychelles,2010,10804.68447,2.1,Sub-Saharan Africa (all income levels),55.4466,-4.6309,Upper middle income,IBRD,10804.68447,2.1
+185,Sudan,2010,1421.532942,4.636,Sub-Saharan Africa (all income levels),32.5363,15.5932,Lower middle income,IDA,1421.532942,4.636
+186,Sweden,2010,52076.43052,1.98,Europe & Central Asia (all income levels),18.0645,59.3327,High income: OECD,Not classified,52076.43052,1.98
+187,Singapore,2010,46569.67951,1.15,East Asia & Pacific (all income levels),103.85,1.28941,High income: nonOECD,Not classified,46569.67951,1.15
+188,Slovenia,2010,23438.84716,1.57,Europe & Central Asia (all income levels),14.5044,46.0546,High income: OECD,Not classified,23438.84716,1.57
+189,Slovak Republic,2010,16554.8788,1.43,Europe & Central Asia (all income levels),17.1073,48.1484,High income: OECD,Not classified,16554.8788,1.43
+190,Sierra Leone,2010,453.0220407,5.151,Sub-Saharan Africa (all income levels),-13.2134,8.4821,Low income,IDA,453.0220407,5.151
+191,San Marino,2010,NA,NA,Europe & Central Asia (all income levels),12.4486,43.9322,High income: nonOECD,Not classified,NA,NA
+192,Senegal,2010,998.1196955,5.174,Sub-Saharan Africa (all income levels),-17.4734,14.7247,Lower middle income,IDA,998.1196955,5.174
+193,Somalia,2010,NA,6.868,Sub-Saharan Africa (all income levels),45.3254,2.07515,Low income,IDA,NA,6.868
+194,Suriname,2010,8430.905965,2.465,Latin America & Caribbean (all income levels),-55.1679,5.8232,Upper middle income,IBRD,8430.905965,2.465
+195,South Sudan,2010,1563.904195,5.376,Sub-Saharan Africa (all income levels),31.6,4.85,Not classified,Not classified,1563.904195,5.376
+196,Sao Tome and Principe,2010,1142.182311,4.789,Sub-Saharan Africa (all income levels),6.6071,0.20618,Lower middle income,IDA,1142.182311,4.789
+197,El Salvador,2010,3547.070983,2.078,Latin America & Caribbean (all income levels),-89.2073,13.7034,Lower middle income,IBRD,3547.070983,2.078
+198,Sint Maarten (Dutch part),2010,NA,NA,Latin America & Caribbean (all income levels),,,High income: nonOECD,Not classified,NA,NA
+199,Syrian Arab Republic,2010,NA,3.093,Middle East & North Africa (all income levels),36.3119,33.5146,Lower middle income,IBRD,NA,3.093
+200,Swaziland,2010,2956.696795,3.559,Sub-Saharan Africa (all income levels),31.4659,-26.5225,Lower middle income,IBRD,2956.696795,3.559
+207,Turks and Caicos Islands,2010,NA,NA,Latin America & Caribbean (all income levels),-71.141389,21.4602778,High income: nonOECD,Not classified,NA,NA
+208,Chad,2010,895.8779959,6.594,Sub-Saharan Africa (all income levels),15.0445,12.1048,Low income,IDA,895.8779959,6.594
+209,Togo,2010,496.4824942,4.868,Sub-Saharan Africa (all income levels),1.2255,6.1228,Low income,IDA,496.4824942,4.868
+210,Thailand,2010,5111.909202,1.547,East Asia & Pacific (all income levels),100.521,13.7308,Upper middle income,IBRD,5111.909202,1.547
+211,Tajikistan,2010,744.1898922,3.514,Europe & Central Asia (all income levels),68.7864,38.5878,Low income,IDA,744.1898922,3.514
+212,Timor-Leste,2010,875.8365693,5.6,East Asia & Pacific (all income levels),125.567,-8.56667,Lower middle income,IDA,875.8365693,5.6
+213,Turkmenistan,2010,4479.012354,2.411,Europe & Central Asia (all income levels),58.3794,37.9509,Lower middle income,IBRD,4479.012354,2.411
+214,Tunisia,2010,4176.59159,2.13,Middle East & North Africa (all income levels),10.21,36.7899,Upper middle income,IBRD,4176.59159,2.13
+215,Tonga,2010,3557.737184,3.913,East Asia & Pacific (all income levels),-175.216,-21.136,Lower middle income,IDA,3557.737184,3.913
+216,Turkey,2010,10111.5177,2.134,Europe & Central Asia (all income levels),32.3606,39.7153,Upper middle income,IBRD,10111.5177,2.134
+217,Trinidad and Tobago,2010,15840.44269,1.806,Latin America & Caribbean (all income levels),-61.4789,10.6596,High income: nonOECD,IBRD,15840.44269,1.806
+218,Tuvalu,2010,3238.375763,NA,East Asia & Pacific (all income levels),179.089567,-8.6314877,Lower middle income,IDA,3238.375763,NA
+219,Tanzania,2010,708.5219323,5.427,Sub-Saharan Africa (all income levels),35.7382,-6.17486,Low income,IDA,708.5219323,5.427
+220,Ukraine,2010,2973.996481,1.443,Europe & Central Asia (all income levels),30.5038,50.4536,Lower middle income,IBRD,2973.996481,1.443
+221,Uganda,2010,608.8130239,6.154,Sub-Saharan Africa (all income levels),32.5729,0.314269,Low income,IDA,608.8130239,6.154
+222,United States,2010,48374.08679,1.931,North America,-77.032,38.8895,High income: OECD,Not classified,48374.08679,1.931
+223,Uruguay,2010,11938.27505,2.078,Latin America & Caribbean (all income levels),-56.0675,-34.8941,Upper middle income,IBRD,11938.27505,2.078
+224,Uzbekistan,2010,1377.08214,2.34,Europe & Central Asia (all income levels),69.269,41.3052,Lower middle income,Blend,1377.08214,2.34
+229,St. Vincent and the Grenadines,2010,6231.713226,2.07,Latin America & Caribbean (all income levels),-61.2653,13.2035,Upper middle income,Blend,6231.713226,2.07
+230,"Venezuela, RB",2010,13581.35338,2.472,Latin America & Caribbean (all income levels),-69.8371,9.08165,Upper middle income,IBRD,13581.35338,2.472
+232,Virgin Islands (U.S.),2010,NA,1.81,Latin America & Caribbean (all income levels),-64.8963,18.3358,High income: nonOECD,Not classified,NA,1.81
+233,Vietnam,2010,1333.583526,1.946,East Asia & Pacific (all income levels),105.825,21.0069,Lower middle income,Blend,1333.583526,1.946
+234,Vanuatu,2010,2965.75223,3.499,East Asia & Pacific (all income levels),168.321,-17.7404,Lower middle income,IDA,2965.75223,3.499
+235,Samoa,2010,3530.573994,4.338,East Asia & Pacific (all income levels),-171.752,-13.8314,Lower middle income,IDA,3530.573994,4.338
+254,"Yemen, Rep.",2010,1310.053839,4.703,Middle East & North Africa (all income levels),44.2075,15.352,Lower middle income,IDA,1310.053839,4.703
+257,South Africa,2010,7392.868752,2.467,Sub-Saharan Africa (all income levels),28.1871,-25.746,Upper middle income,IBRD,7392.868752,2.467
+261,Zambia,2010,1456.126526,5.687,Sub-Saharan Africa (all income levels),28.2937,-15.3982,Lower middle income,IDA,1456.126526,5.687
+264,Zimbabwe,2010,674.2686954,4.048,Sub-Saharan Africa (all income levels),31.0672,-17.8312,Low income,Blend,674.2686954,4.048
